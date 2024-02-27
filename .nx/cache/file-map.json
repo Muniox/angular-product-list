@@ -1,0 +1,144 @@
+{
+  "version": "6.0",
+  "nxVersion": "17.2.8",
+  "deps": {
+    "@angular/animations": "^17.2.0",
+    "@angular/common": "^17.2.0",
+    "@angular/compiler": "^17.2.0",
+    "@angular/core": "^17.2.0",
+    "@angular/forms": "^17.2.0",
+    "@angular/platform-browser": "^17.2.0",
+    "@angular/platform-browser-dynamic": "^17.2.0",
+    "@angular/router": "^17.2.0",
+    "rxjs": "~7.8.0",
+    "tslib": "^2.3.0",
+    "zone.js": "~0.14.3",
+    "@angular-devkit/build-angular": "^17.2.0",
+    "@angular-eslint/builder": "17.2.1",
+    "@angular-eslint/eslint-plugin": "17.2.1",
+    "@angular-eslint/eslint-plugin-template": "17.2.1",
+    "@angular-eslint/schematics": "17.2.1",
+    "@angular-eslint/template-parser": "17.2.1",
+    "@angular/cli": "^17.2.0",
+    "@angular/compiler-cli": "^17.2.0",
+    "@typescript-eslint/eslint-plugin": "6.19.0",
+    "@typescript-eslint/parser": "6.19.0",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5",
+    "prettier-eslint": "^16.3.0",
+    "typescript": "~5.3.2"
+  },
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "angular-product-list": [
+        {
+          "file": ".eslintrc.json",
+          "hash": "14645878845883387518"
+        },
+        {
+          "file": ".gitignore",
+          "hash": "4689145951703824387"
+        },
+        {
+          "file": ".vscode/extensions.json",
+          "hash": "11934160580685414355"
+        },
+        {
+          "file": ".vscode/launch.json",
+          "hash": "16152959541739016562"
+        },
+        {
+          "file": ".vscode/tasks.json",
+          "hash": "16628724667810996389"
+        },
+        {
+          "file": "README.md",
+          "hash": "8373744397959540984"
+        },
+        {
+          "file": "angular.json",
+          "hash": "6149315439628446731"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "13839384426234895455"
+        },
+        {
+          "file": "package.json",
+          "hash": "13195705389481230139",
+          "deps": [
+            "npm:@angular/animations",
+            "npm:@angular/common",
+            "npm:@angular/compiler",
+            "npm:@angular/core",
+            "npm:@angular/forms",
+            "npm:@angular/platform-browser",
+            "npm:@angular/platform-browser-dynamic",
+            "npm:@angular/router",
+            "npm:rxjs",
+            "npm:tslib",
+            "npm:zone.js",
+            "npm:@angular-devkit/build-angular",
+            "npm:@angular-eslint/builder",
+            "npm:@angular-eslint/eslint-plugin",
+            "npm:@angular-eslint/eslint-plugin-template",
+            "npm:@angular-eslint/schematics",
+            "npm:@angular-eslint/template-parser",
+            "npm:@angular/cli",
+            "npm:@angular/compiler-cli",
+            "npm:@typescript-eslint/eslint-plugin",
+            "npm:@typescript-eslint/parser",
+            "npm:eslint",
+            "npm:prettier",
+            "npm:typescript"
+          ]
+        },
+        {
+          "file": "src/app/app-routing.module.ts",
+          "hash": "15638978050551223935"
+        },
+        {
+          "file": "src/app/app.component.ts",
+          "hash": "11174522484606155323"
+        },
+        {
+          "file": "src/app/app.module.ts",
+          "hash": "7042628611948641030"
+        },
+        {
+          "file": "src/assets/.gitkeep",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "src/favicon.ico",
+          "hash": "3988961587069885523"
+        },
+        {
+          "file": "src/index.html",
+          "hash": "6213915748395364129"
+        },
+        {
+          "file": "src/main.ts",
+          "hash": "9374417435436826166"
+        },
+        {
+          "file": "src/styles.css",
+          "hash": "2917954890128038984"
+        },
+        {
+          "file": "tsconfig.app.json",
+          "hash": "13119632651406065538"
+        },
+        {
+          "file": "tsconfig.json",
+          "hash": "3343339550490537441"
+        }
+      ]
+    },
+    "nonProjectFiles": []
+  }
+}
