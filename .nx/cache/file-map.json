@@ -33,112 +33,164 @@
   "pathMappings": {},
   "nxJsonPlugins": [],
   "fileMap": {
-    "projectFileMap": {
-      "angular-product-list": [
-        {
-          "file": ".eslintrc.json",
-          "hash": "14645878845883387518"
-        },
-        {
-          "file": ".gitignore",
-          "hash": "4689145951703824387"
-        },
-        {
-          "file": ".vscode/extensions.json",
-          "hash": "11934160580685414355"
-        },
-        {
-          "file": ".vscode/launch.json",
-          "hash": "16152959541739016562"
-        },
-        {
-          "file": ".vscode/tasks.json",
-          "hash": "16628724667810996389"
-        },
-        {
-          "file": "README.md",
-          "hash": "8373744397959540984"
-        },
-        {
-          "file": "angular.json",
-          "hash": "6149315439628446731"
-        },
-        {
-          "file": "package-lock.json",
-          "hash": "13839384426234895455"
-        },
-        {
-          "file": "package.json",
-          "hash": "13195705389481230139",
-          "deps": [
-            "npm:@angular/animations",
-            "npm:@angular/common",
-            "npm:@angular/compiler",
-            "npm:@angular/core",
-            "npm:@angular/forms",
-            "npm:@angular/platform-browser",
-            "npm:@angular/platform-browser-dynamic",
-            "npm:@angular/router",
-            "npm:rxjs",
-            "npm:tslib",
-            "npm:zone.js",
-            "npm:@angular-devkit/build-angular",
-            "npm:@angular-eslint/builder",
-            "npm:@angular-eslint/eslint-plugin",
-            "npm:@angular-eslint/eslint-plugin-template",
-            "npm:@angular-eslint/schematics",
-            "npm:@angular-eslint/template-parser",
-            "npm:@angular/cli",
-            "npm:@angular/compiler-cli",
-            "npm:@typescript-eslint/eslint-plugin",
-            "npm:@typescript-eslint/parser",
-            "npm:eslint",
-            "npm:prettier",
-            "npm:typescript"
-          ]
-        },
-        {
-          "file": "src/app/app-routing.module.ts",
-          "hash": "15638978050551223935"
-        },
-        {
-          "file": "src/app/app.component.ts",
-          "hash": "11174522484606155323"
-        },
-        {
-          "file": "src/app/app.module.ts",
-          "hash": "7042628611948641030"
-        },
-        {
-          "file": "src/assets/.gitkeep",
-          "hash": "3244421341483603138"
-        },
-        {
-          "file": "src/favicon.ico",
-          "hash": "3988961587069885523"
-        },
-        {
-          "file": "src/index.html",
-          "hash": "6213915748395364129"
-        },
-        {
-          "file": "src/main.ts",
-          "hash": "9374417435436826166"
-        },
-        {
-          "file": "src/styles.css",
-          "hash": "2917954890128038984"
-        },
-        {
-          "file": "tsconfig.app.json",
-          "hash": "13119632651406065538"
-        },
-        {
-          "file": "tsconfig.json",
-          "hash": "3343339550490537441"
-        }
-      ]
-    },
-    "nonProjectFiles": []
+    "projectFileMap": {},
+    "nonProjectFiles": [
+      {
+        "file": ".eslintrc.json",
+        "hash": "13208160633844451952"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "4689145951703824387"
+      },
+      {
+        "file": ".prettierignore",
+        "hash": "2258377211691424337"
+      },
+      {
+        "file": ".prettierrc.json",
+        "hash": "1581303422221185776"
+      },
+      {
+        "file": ".vscode/extensions.json",
+        "hash": "11934160580685414355"
+      },
+      {
+        "file": ".vscode/launch.json",
+        "hash": "16152959541739016562"
+      },
+      {
+        "file": ".vscode/tasks.json",
+        "hash": "16628724667810996389"
+      },
+      {
+        "file": "README.md",
+        "hash": "8373744397959540984"
+      },
+      {
+        "file": "angular.json",
+        "hash": "6149315439628446731"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "6748607927893511237"
+      },
+      {
+        "file": "package.json",
+        "hash": "15636962439748818118"
+      },
+      {
+        "file": "src/app/app-routing.module.ts",
+        "hash": "15311033602264864270"
+      },
+      {
+        "file": "src/app/app.component.css",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/app.component.html",
+        "hash": "6001905634266279220"
+      },
+      {
+        "file": "src/app/app.component.ts",
+        "hash": "17565202543286901119"
+      },
+      {
+        "file": "src/app/app.module.ts",
+        "hash": "6111258618176210367"
+      },
+      {
+        "file": "src/app/cart.service.ts",
+        "hash": "3868092633402321757"
+      },
+      {
+        "file": "src/app/cart/cart.component.ts",
+        "hash": "8931365886149651918"
+      },
+      {
+        "file": "src/app/product-alerts/product-alerts.component.css",
+        "hash": "15036214574332298676"
+      },
+      {
+        "file": "src/app/product-alerts/product-alerts.component.html",
+        "hash": "4676444580774827867"
+      },
+      {
+        "file": "src/app/product-alerts/product-alerts.component.ts",
+        "hash": "3876419606544590158"
+      },
+      {
+        "file": "src/app/product-details/product-details.component.css",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/app/product-details/product-details.component.html",
+        "hash": "16880525671763720508"
+      },
+      {
+        "file": "src/app/product-details/product-details.component.ts",
+        "hash": "6265625580543992347"
+      },
+      {
+        "file": "src/app/product-list/product-list.component.css",
+        "hash": "4055606894390288348"
+      },
+      {
+        "file": "src/app/product-list/product-list.component.html",
+        "hash": "9618017555962894147"
+      },
+      {
+        "file": "src/app/product-list/product-list.component.ts",
+        "hash": "12531083683256385793"
+      },
+      {
+        "file": "src/app/products.ts",
+        "hash": "15093716828184524604"
+      },
+      {
+        "file": "src/app/top-bar/top-bar.component.css",
+        "hash": "4055606894390288348"
+      },
+      {
+        "file": "src/app/top-bar/top-bar.component.html",
+        "hash": "8805532105543604720"
+      },
+      {
+        "file": "src/app/top-bar/top-bar.component.ts",
+        "hash": "12347953558550692776"
+      },
+      {
+        "file": "src/assets/.gitkeep",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "src/assets/shipping.json",
+        "hash": "8977690081781997823"
+      },
+      {
+        "file": "src/favicon.ico",
+        "hash": "3988961587069885523"
+      },
+      {
+        "file": "src/index.html",
+        "hash": "12318558349771845852"
+      },
+      {
+        "file": "src/main.ts",
+        "hash": "760372990395499648"
+      },
+      {
+        "file": "src/styles.css",
+        "hash": "13275569859922553907"
+      },
+      {
+        "file": "tsconfig.app.json",
+        "hash": "13119632651406065538"
+      },
+      {
+        "file": "tsconfig.json",
+        "hash": "3343339550490537441"
+      }
+    ]
   }
 }
